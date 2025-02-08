@@ -53,6 +53,15 @@
       "author_name": "Mehedi Imun Anik",
       "blog_image": "https://startnearshoring.com/wp-content/uploads/2023/07/The_Growing_Importance_of_Cybersecurity.jpg",
       "total_likes": "950"
+    },
+    {
+      "id": "8db0",
+      "title": "Javascript",
+      "author_name": "Hammad Sadi",
+      "publish_date": "2025-02-08",
+      "total_likes": "333",
+      "blog_image": "https://miro.medium.com/v2/resize:fit:1200/1*LyZcwuLWv2FArOumCxobpA.png",
+      "description": "This article will start with a brief overview of my opinion regarding programming languages and more specifically Javascript, the growth it has experienced this past decade, and the main tech stacks that are composed purely of Javascript."
     }
   ]
 }
